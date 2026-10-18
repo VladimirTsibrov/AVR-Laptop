@@ -1,0 +1,7 @@
+# VS Code settings and local configuration
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Local Arduino build artifacts and AVR assembler listing
+build/
